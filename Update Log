@@ -1,0 +1,10 @@
+2020
+Update Log 2/3
+
+- DLL Injection is almost done.
+- Injection works perfectly fine.
+- Kill Applications (similar to Calamari's)
+- Synapse X, Calamari, Proxo, & Elysian UI are among the remakes.
+- Jawn's Hub has been renamed to ArcaneX.
+- UI Stability incremented.
+- Attach/Inject button for the remade UI's will be fixed after I find a way to launch the DLL execution.
